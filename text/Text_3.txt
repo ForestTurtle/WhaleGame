@@ -1,0 +1,30 @@
+#back2
+<MC, Jonah?>
+  Come on, man; help a guy out here. I'll have money soon; 
+a drink isn't too much to ask for.
+
+#back1
+<BARTENDER, Cooper>
+  No way, no way. You know our motto, no bucks no booze.
+If you want a drink, you're going to have to pay up front.
+Now, please leave, you're disturbing the other customers.
+
+#back2
+<MC>
+  The one day I forget my wallet! I've been drinking here for
+years now, Cooper. Is it really too hard to do a friend a 
+favor and spot me a drink?
+
+#back2
+<BARTENDER, Cooper>
+  Sir, if all the no good ruffians around here got free
+beverages, this place would be out of business within a week.
+Especially with the new anti-whale tax on all liquid products!
+Hmph, they say it's to fund the war against the whales, but I
+think they're just greedy.
+
+#back2
+<CUSTOMER>
+  They're using the new tax to fund mercenaries. The rewards are
+actually pretty good. But, the whales are too scary, man.
+#end

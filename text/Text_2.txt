@@ -1,0 +1,31 @@
+#back2
+  Flow is made up of four Islands.
+Each Island has their own specialty.
+
+#back1
+  The main Island of Polaris.
+This is where the government of Flow is located. All decisions,
+major and minor, are made here. It is full of high-level 
+educational facilities and upper-class architecture.
+
+#back2
+  The agriculture island of Chow.
+This place is the main food supply of Flow. The people here 
+live modestly and happily.The population consists of farmers, 
+traders,and houseworkers.
+
+#back1
+  The sailor island of Sun.
+This is where adventurers are born! The people here know danger 
+and battle like the back of their hands. Fishermen, sailors,
+adventurers, and all the like are raised here.
+
+#back2
+  The technology island of Mint.
+This island is very secretive and disconnected. Although the
+other islands would love to know what goes on behind the
+closed walls of Mint, a compromise has been made. As long as
+the people of Mint support the rest of Flow with their 
+technologies, the rest of Flow should not probe into Mint's
+matters.
+#end
