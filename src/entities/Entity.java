@@ -15,7 +15,22 @@ import sidescroller.ImagePanel;
 import sidescroller.MyMap;
 import skills.Skill;
 
-//reusable
+/**
+ * Jefferson Wang
+ * This is stores all the non-unique information required for every entity
+ * entities are basically anything not the map and background on the screen
+ *
+ * should be simple interface
+ * allowing atribs: image, position
+ * allowing behavior: animate, move
+ *
+ * ...specify into specific classes for interaction...
+ * ex. creature, item, static(non interactive), effect(skills)
+ * creature: health, interaction
+ * item: itemNo, interaction
+ * static: (basically an entity)
+ * effect: interaction
+ */
 public abstract class Entity extends Rectangle {// Things that have a hitbox
 	public float xSpeed = 2;//horizontal speed
 	public float xFloat, yFloat;// Position in floats in

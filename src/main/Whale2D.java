@@ -16,14 +16,15 @@ import sidescroller.SideScroller;
 public class Whale2D extends StateBasedGame {
 	// sets title
 	public Whale2D() {
-		super("Phallinon");
+		super("Phallainon");
 		
 	}
-	//uses drawScreen of everthing that is addected by a camera
+	//uses drawScreen of everything that is affected by a camera
 	public void render(GameContainer gc, Graphics g) throws SlickException {
 		super.render(gc, g);
 		}
-	//esc = exit
+
+	//esc = exit program
 	public void update(GameContainer gc, int delta) throws SlickException {
 		super.update(gc, delta);
 		Input in = gc.getInput();
@@ -32,7 +33,7 @@ public class Whale2D extends StateBasedGame {
 		}
 			
 	}
-	//sets size to 900x700 and framerate to 50
+	//initial setup: sets size to 900x700 and framerate to 60
 	public static void main(String[] args) throws SlickException {
 		AppGameContainer app = new AppGameContainer(new Whale2D());
 		app.setDisplayMode(800, 600, false);
@@ -41,7 +42,7 @@ public class Whale2D extends StateBasedGame {
 		app.setUpdateOnlyWhenVisible(false);// same as above
 		// app.setShowFPS(false);//disables framerate showing
 		app.setIcon("Icon.png");//must be 32x32
-		app.start();
+		app.start(); //starts update and render loops, starting with init states list
 	}
 
 	//states

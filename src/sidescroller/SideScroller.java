@@ -18,6 +18,11 @@ import org.newdawn.slick.state.StateBasedGame;
 import skills.*;
 import entities.Player;
 
+/**
+ * Jefferson Wang
+ * This class is the engine for the side scroller
+ * This will preform everything that should be done in every map
+ */
 public class SideScroller extends BasicGameState {
 	// side scroller runner
 	// well, background info and stuff

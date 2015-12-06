@@ -19,42 +19,40 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="module-library">
-      <library name="slick.jar">
+      <library>
         <CLASSES>
-          <root url="jar://$MODULE_DIR$/../../eclipse/slick.jar!/" />
+          <root url="jar://$MODULE_DIR$/external_libs/jinput.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
       </library>
     </orderEntry>
     <orderEntry type="module-library">
-      <library name="jinput.jar">
+      <library>
         <CLASSES>
-          <root url="jar://$MODULE_DIR$/../../eclipse/lwjgl-2.9.0/jar/jinput.jar!/" />
+          <root url="jar://$MODULE_DIR$/external_libs/lwjgl.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
       </library>
     </orderEntry>
     <orderEntry type="module-library">
-      <library name="lwjgl_util.jar">
+      <library>
         <CLASSES>
-          <root url="jar://$MODULE_DIR$/../../eclipse/lwjgl-2.9.0/jar/lwjgl_util.jar!/" />
+          <root url="jar://$MODULE_DIR$/external_libs/lwjgl_util.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
       </library>
     </orderEntry>
     <orderEntry type="module-library">
-      <library name="lwjgl.jar">
+      <library>
         <CLASSES>
-          <root url="jar://$MODULE_DIR$/../../eclipse/lwjgl-2.9.0/jar/lwjgl.jar!/" />
+          <root url="jar://$MODULE_DIR$/external_libs/slick.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
       </library>
     </orderEntry>
-    <orderEntry type="library" name="slick" level="project" />
-    <orderEntry type="library" name="lwjgl_util" level="project" />
   </component>
 </module>

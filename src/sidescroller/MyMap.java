@@ -11,6 +11,11 @@ import org.newdawn.slick.SlickException;
 import entities.BossSlime;
 import entities.Entity;
 
+/**
+ * Jefferson Wang
+ * This provides the functionality for Maps.
+ * This should take in an image which will be converted into the map
+ */
 public class MyMap {
 	private int rows; // rows in map
 	private int cols; // columns in map
